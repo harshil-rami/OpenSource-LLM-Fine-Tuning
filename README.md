@@ -1,6 +1,6 @@
 # **Fine-Tuning Repository for LLaMA, Mistral, and Other Open Source Models**
 
-Welcome to the **Fine-Tuning Repository**, where we develop fine-tuned models on top of various open-source architectures, including **LLaMA**, **Mistral**, and others. This repository contains multiple `.ipynb` notebooks, each dedicated to specific use cases for fine-tuning, utilizing **`unclothe`** and other essential modules. 
+Welcome to the **Fine-Tuning Repository**, where we develop fine-tuned models on top of various open-source architectures, including **LLaMA**, **Mistral**, and others. This repository contains multiple `.ipynb` notebooks, each dedicated to specific use cases for fine-tuning, utilizing **`unsloth`** and other essential modules. 
 
 ## **Table of Contents**
 1. [Project Overview](#project-overview)
@@ -20,7 +20,7 @@ Welcome to the **Fine-Tuning Repository**, where we develop fine-tuned models on
 
 This project focuses on **fine-tuning open-source language models** such as **LLaMA**, **Mistral**, and others to adapt them for specific tasks and domains. Each fine-tuned model is developed through dedicated experiments contained in various **Jupyter notebooks (`.ipynb`)** within this repository.
 
-Our primary focus is to explore **multiple fine-tuning use cases** and demonstrate how models can be improved for distinct tasks using **`unclothe`** and other modules. Whether you're interested in **text generation, summarization, question answering,** or **domain-specific NLP tasks**, this repository provides modular and scalable examples.
+Our primary focus is to explore **multiple fine-tuning use cases** and demonstrate how models can be improved for distinct tasks using **`unsloth`** and other modules. Whether you're interested in **text generation, summarization, question answering,** or **domain-specific NLP tasks**, this repository provides modular and scalable examples.
 
 ---
 
